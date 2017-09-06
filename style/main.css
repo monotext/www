@@ -160,7 +160,7 @@ footer {
 	box-shadow: 0 0 5px rgba(0,0,0,.12);
 	border-radius: 4px;
 	overflow: hidden;
-	background: #34495e url("../images/bg_1.jpg") no-repeat 50% 50%;
+	background: #34495e url("../images/top.png") no-repeat 50% 50%;
 	position: relative;
 	max-height: 300px;
 }
